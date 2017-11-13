@@ -27,6 +27,7 @@ weight = 20
 					<tr>
 						<td><font size="4">1, Image Analysis (by Tensorflow)</font></td>
 					</tr>
+
 					<tr>
 						<td><font size="4">2, Random Forest (by R)</font></td>
 					</tr>
@@ -46,7 +47,7 @@ weight = 20
 					<tr>
 						<td><font size="4">6, Gene Data Analysis (by R)</font></td>
 					</tr>
-					
+
 					<tr>
 						<td><font size="4">7, Meta-analysis (by RevMan)</font></td>
 					</tr>					
