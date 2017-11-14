@@ -33,4 +33,4 @@ weight = 5
 
 Wei Qian is an assistant researcher of statistics in the Center of Clinical Epidemiology & Evidence-based Medicine at Second Military Medical University, and in the Department of Gastroenterology at Second Military Medical University Affiliated Changhai Hospital. Her research interests are at the intersection of machine learning algorithms and statistical methods, and their applications in medicine. She is particularly interested in the computer vision of medical images.
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} (last updated on November 10, 2017)
+{{% staticref "files/Wei Qian's CV.pdf" %}}Download my CV{{% /staticref %}} (last updated on November 10, 2017)
