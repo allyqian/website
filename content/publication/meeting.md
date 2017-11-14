@@ -3,7 +3,7 @@ title = "A meta-analysis of the efficiency and safety of the concurrent use of a
 date = "2014-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Qian W", "Cai QC", "Zhu W", "Li ZS"]
+authors = ["`Qian W`", "Cai QC", "Zhu W", "Li ZS"]
 
 # Publication type.
 # Legend:
@@ -33,12 +33,9 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+projects = [""]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -53,9 +50,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
